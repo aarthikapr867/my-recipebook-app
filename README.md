@@ -1,2 +1,1 @@
-# my-recipebook-app
-The Recipe Book App is a simple web project where users can view, share, and comment on recipes using HTML, CSS, and JavaScript.
+The Recipe Book App is a simple and interactive web project developed using HTML, CSS, and JavaScript. It allows users to view, share, and comment on various recipes through a clean and responsive interface. The project focuses on creating an easy-to-use design where users can explore recipes and engage with others by posting their feedback. It is a beginner-friendly project that demonstrates the basic use of front-end technologies to build a dynamic and visually appealing recipe-sharing platform.
